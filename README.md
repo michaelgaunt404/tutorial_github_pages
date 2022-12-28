@@ -80,7 +80,7 @@ Since the purpose of this guide is to demonstrate how to publish multiple Markdo
 * [Gazpacho](./recipes/Gazpacho.md)
 * [Pasta all'amatriciana](./recipes/Pasta_all_amatriciana.md)
 
-## Recipes
+## HTML Links
 
 This is a small section to see how easy it is to add rendered Rmarkdown files.
 
