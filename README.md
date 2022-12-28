@@ -80,6 +80,12 @@ Since the purpose of this guide is to demonstrate how to publish multiple Markdo
 * [Gazpacho](./recipes/Gazpacho.md)
 * [Pasta all'amatriciana](./recipes/Pasta_all_amatriciana.md)
 
+## Recipes
+
+This is a small section to see how easy it is to add rendered Rmarkdown files.
+
+* [Rhode Island OD Analysis](./docs/analysis_ri_oneoff_20221220_mile.html)
+
 ## Other Github Pages related projects
 
 I'm a fan of Github Pages for the possibilities it offers to anyone to publish a website for free. I have multiple projects that could be of interest if that's your case too:
